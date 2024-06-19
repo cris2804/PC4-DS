@@ -1,0 +1,15 @@
+
+y
+java:S1117"6Rename "map" which hides the field declared at line 7.(››Ø©8â£ñ…ƒ2J$1f7c4d96-9726-4003-aaee-5ed343015e43
+{
+java:S1117"9Rename "player" which hides the field declared at line 8.( öøX8ä£ñ…ƒ2J$ebb17177-e18d-4bf3-83f8-bf29241eac9c
+€
+java:S1117"8Rename "waves" which hides the field declared at line 9.(’êÆòùÿÿÿÿ8ä£ñ…ƒ2J$e759ba0d-1323-41e0-9e1c-38e551f88564
+r	java:S106""+Replace this use of System.out by a logger.(»ºÆûÿÿÿÿ8è£ñ…ƒ2J$82762787-8a01-4c66-b3ed-f0b2b81b5fbe
+m	java:S106&"+Replace this use of System.out by a logger.(Ç†Ä©8ğ‚é†ƒ2J$ecd0a195-0ccb-4451-b062-113971e6691b
+m	java:S106."+Replace this use of System.out by a logger.(Ç†Ä©8ÉÅğ†ƒ2J$9e78b74d-6c97-440a-a180-c06dbe360013
+r
+java:S1068"*Remove this unused "player" private field.(Ç¹Ù±úÿÿÿÿ8í£ñ…ƒ2J$ee8d3503-12d4-41c3-b919-9c2afd832065
+q
+java:S1068
+")Remove this unused "score" private field.(µ¼æÿÿÿÿÿ8î£ñ…ƒ2J$29efb747-41ef-48e0-9e9e-f6154bbd56ce

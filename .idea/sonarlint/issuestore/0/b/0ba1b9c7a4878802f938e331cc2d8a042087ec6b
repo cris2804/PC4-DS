@@ -1,0 +1,14 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ê­Œ8àë¿‡ƒ2J$bf97aa15-a2f7-4e2f-bff5-7e354e695d38
+ƒ
+java:S1854";Remove this useless assignment to local variable "comando".(á“„’ÿÿÿÿÿ8´°Ä‡ƒ2J$fe86e7f9-1713-4487-adb5-390a13f1a72d
+z
+java:S1854"8Remove this useless assignment to local variable "text".(¤æ58ãĞÁ‡ƒ2J$2f7069cf-b814-4bd6-bc1f-5597e58b99fa
+l	java:S106"+Replace this use of System.out by a logger.(Ä°m8ìë¿‡ƒ2J$60b27c7c-8892-4e1e-9b6b-62e874842d06
+l	java:S106"+Replace this use of System.out by a logger.(‘»¶$8íë¿‡ƒ2J$4fa1e30a-d6b1-4a3a-81dc-029051f499f0
+k
+java:S1481")Remove this unused "text" local variable.(¤æ58¶öÁ‡ƒ2J$3dc39819-4a31-427d-b5de-437a5d86d0ec
+t
+java:S1481",Remove this unused "comando" local variable.(á“„’ÿÿÿÿÿ8º°Ä‡ƒ2J$c3edcfab-f75f-4e73-a9fd-c573d130486d
+r	java:S106"+Replace this use of System.out by a logger.(Ò¼ùëşÿÿÿÿ8ºïÇ‡ƒ2J$eeb1f3ca-3ffb-4186-a122-9f0ef581d0c8
+m	java:S106"+Replace this use of System.out by a logger.(™–Í8¼È‡ƒ2J$34f7510d-4509-4c2e-bf3c-812ecc2ad413
